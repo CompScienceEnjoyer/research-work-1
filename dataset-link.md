@@ -1,1 +1,1 @@
-https://www.kaggle.com/code/ankitoscar/students-mat
+https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
